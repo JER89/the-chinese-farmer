@@ -1,0 +1,23 @@
+
+p {font-family: serif;
+     font-size: 18px;
+    color: darkslategray;
+}
+
+a:visited {
+    color: green
+}
+
+a:hover { 
+    color : hotpink
+}
+
+a:link { 
+    text-decoration: none;
+}
+body {width:90%;
+    margin: 50px;
+}
+q { width: 10%;
+    text-align: left;
+}
